@@ -30,7 +30,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		DFB5F2352F78D95B00E27488 /* PBXFileSystemSynchronizedBuildFileExceptionSet */ = {
+		DFB5F2352F78D95B00E27488 /* Exceptions for "hina01" folder in "hina01" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
@@ -43,7 +43,7 @@
 		DFB5F20D2F78D95900E27488 /* hina01 */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				DFB5F2352F78D95B00E27488 /* PBXFileSystemSynchronizedBuildFileExceptionSet */,
+				DFB5F2352F78D95B00E27488 /* Exceptions for "hina01" folder in "hina01" target */,
 			);
 			path = hina01;
 			sourceTree = "<group>";
@@ -205,6 +205,7 @@
 			knownRegions = (
 				en,
 				Base,
+				ja,
 			);
 			mainGroup = DFB5F2022F78D95900E27488;
 			minimizedProjectReferenceProxies = 1;
