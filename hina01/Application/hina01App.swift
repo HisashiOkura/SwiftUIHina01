@@ -6,7 +6,7 @@ struct hina01App: App {
 
     var body: some Scene {
         WindowGroup {
-            HomeView()
+            TopView()
         }
     }
 }
