@@ -1,6 +1,15 @@
 {
   "sourceLanguage" : "en",
   "strings" : {
+    "CAPTION — 補足テキスト" : {
+
+    },
+    "Data" : {
+
+    },
+    "Font Samples" : {
+
+    },
     "Home" : {
       "localizations" : {
         "en" : {
@@ -16,6 +25,18 @@
           }
         }
       }
+    },
+    "This is Inter body text." : {
+
+    },
+    "Welcome to hina01" : {
+
+    },
+    "これは Noto Sans JP の本文です。" : {
+
+    },
+    "ようこそ hina01 へ" : {
+
     }
   },
   "version" : "1.0"
